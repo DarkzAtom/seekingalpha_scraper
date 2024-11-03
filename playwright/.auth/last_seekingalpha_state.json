@@ -1,0 +1,669 @@
+{
+    "cookies": [
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139941,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "machine_cookie",
+            "path": "/",
+            "sameSite": "None",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "0706632278439"
+        },
+        {
+            "domain": ".seekingalpha.com",
+            "expirationDate": 1762115943,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "OptanonConsent",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "isGpcEnabled=0&datestamp=Sun+Nov+03+2024+02%3A39%3A03+GMT%2B0600+(Kyrgyzstan+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&landingPath=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4732443-thermal-energy-international-inc-2025-q1-results-earnings-call-presentation&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0&hosts=H40%3A1%2CH17%3A1%2CH13%3A0%2CH36%3A0%2CH55%3A0%2CH69%3A0%2CH45%3A0%2CH14%3A0%2CH15%3A0%2CH19%3A0%2CH47%3A0&genVendors=V12%3A0%2CV5%3A0%2CV7%3A0%2CV8%3A0%2CV13%3A1%2CV15%3A0%2CV3%3A1%2CV2%3A1%2CV6%3A0%2CV14%3A0%2CV1%3A1%2CV4%3A1%2CV9%3A0%2C"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "session_id",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": true,
+            "storeId": "0",
+            "value": "fa937fb5-79d2-42b4-8846-a51277193607"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "LAST_VISITED_PAGE",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": true,
+            "storeId": "0",
+            "value": "%7B%22pathname%22%3A%22https%3A%2F%2Fseekingalpha.com%2Farticle%2F4732443-thermal-energy-international-inc-2025-q1-results-earnings-call-presentation%22%2C%22pageKey%22%3A%229df79be1-9079-4e06-8cd7-de955f4c0c7b%22%7D"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "_sasource",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": true,
+            "storeId": "0",
+            "value": ""
+        },
+        {
+            "domain": ".seekingalpha.com",
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "pxcts",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": true,
+            "storeId": "0",
+            "value": "803ef38e-995a-11ef-9d87-16aae83c0327"
+        },
+        {
+            "domain": ".seekingalpha.com",
+            "expirationDate": 1762115946,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "_pxvid",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "803ee239-995a-11ef-9d86-ca489ed9a8bf"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1730581748,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "userLocalData_mone_session_lastSession",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "%7B%22machineCookie%22%3A%220706632278439%22%2C%22machineCookieSessionId%22%3A%220706632278439%261730579943776%22%2C%22sessionStart%22%3A1730579943776%2C%22sessionEnd%22%3A1730581748234%2C%22firstSessionPageKey%22%3A%229df79be1-9079-4e06-8cd7-de955f4c0c7b%22%2C%22isSessionStart%22%3Afalse%2C%22lastEvent%22%3A%7B%22event_type%22%3A%22mousemove%22%2C%22timestamp%22%3A1730579948234%7D%7D"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "user_id",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "60796931"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "user_nick",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": ""
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "user_devices",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": ""
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "user_cookie_key",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "11knh41"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "u_voc",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": ""
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "has_paid_subscription",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "true"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "ever_pro",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "1"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "sapu",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "12"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": true,
+            "name": "user_remember_token",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "737e96ba91b1a5d47730026dc50e6a87f344523c"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1762119558,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "gk_user_access",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "1*premium.archived*1730579956"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1762119558,
+            "hostOnly": true,
+            "httpOnly": true,
+            "name": "gk_user_access_sign",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "20812abcd2307d57d662df9f47deaf60291ae218"
+        },
+        {
+            "domain": ".seekingalpha.com",
+            "expirationDate": 1730580957,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "_px3",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "e433e5aad4623d65d9964185590836cf85d2b6678268d402385550d956207983:OFB2hzA70zT5TD89dt6GAg2ayseyvH8jTA+v5YImmirdwglYHeM9kYukcCLdmtkpt3AC8pdC2nzD7JxeN5H+rg==:1000:uBXtohRGkQrZmTmQfI1EpT/Q/izdZTKkB3F1Yd9+hNvh6B30gDHx5lRzgZnaS351fjb0dtHDkuMcQIXj6FYhRbZg38whQk6CNFdtIBNYQkd9q30FNnSVw+71xHOlwY/08SCwtBgNuBJj/iPwDdU3FHEv76dKvelBtUvKl8pPdoRKWd/gFnkXAn7BX3PZeCV2oSz4HH8/RiWqm17YKXCtrTMctiEofQjyaVY8KOWCMU8="
+        },
+        {
+            "domain": ".seekingalpha.com",
+            "expirationDate": 1730580957,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "_pxde",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "485fb0f0557df1a863c43ae3c5d29983a27acc591e396a1dd4b17a8e0adea5e8:eyJ0aW1lc3RhbXAiOjE3MzA1Nzk5NTY2NDksImZfa2IiOjB9"
+        }
+    ],
+    "localStorage": {
+        "PXxgCxM9By_Dzd5dUlTekI=": "1",
+        "piano_tag_for_url_params": "[]",
+        "sailthru_daily_tracking": "{\"article\":\"2024-11-02T18:00:00.000Z\"}",
+        "comments_sort": "newest",
+        "shouldShowGiftPremium": "{\"value\":true,\"expiry\":1735763942696}",
+        "userLocalData_headlines": "{\"saved_headlines_map\":[]}",
+        "PXxgCxM9By_px_hvd": "20314b640e84bad12cc980267da72138",
+        "userLocalData_inbox": "{\"inbox_tab\":\"comments\",\"inbox_counts\":{\"notSeen\":0,\"headlines\":0,\"comments\":0,\"directMessages\":0}}",
+        "isAsideExpertsCollapsed": "true",
+        "userLocalData_investingGroups": "{\"unreadCounters\":{\"investingGroupsUnread\":{},\"lastUpdated\":1730579941707}}",
+        "PXxgCxM9By_px-ff": "eyJjYyI6eyJ0dGwiOjE3MzA1ODAwMDYsInZhbCI6IlUyRnRaVk5wZEdVOVRHRjRPdz09In0sImNmcCI6eyJ0dGwiOjE3MzA1ODAwMDYsInZhbCI6IjEifX0=",
+        "isAsidePortfoliosCollapsed": "true",
+        "isAsideOpened": "true",
+        "mone_keys": "{\"ver\":1,\"keys\":{\"3115\":{\"url\":\"https://seekingalpha.com/article/4732443-thermal-energy-international-inc-2025-q1-results-earnings-call-presentation?ssr_poc=yes&test_mcm_was_ever_pro=control&ig_full_checkout_aside_collapsed=test&wrapper_default_start_page=ideas&upgrade_menu_placement=v1\",\"at\":1730579943.776,\"key\":\"9df79be1-9079-4e06-8cd7-de955f4c0c7b\"}}}",
+        "__sa_data__": "{\"lastSessionId\":\"fa937fb5-79d2-42b4-8846-a51277193607.0\",\"sessionID\":\"fa937fb5-79d2-42b4-8846-a51277193607.0\",\"sessionExpiration\":1730581743775}",
+        "userLocalData_audioPlayer": "{\"playingFrom\":\"\"}"
+    },
+    "sessionStorage": {
+        "pxsid": "803eefa5-995a-11ef-9d87-16aae83c0327",
+        "piano_tag_for_url_params": "[]",
+        "_referrer": "https://seekingalpha.com/article/4732443-thermal-energy-international-inc-2025-q1-results-earnings-call-presentation?ssr_poc=yes&test_mcm_was_ever_pro=control&ig_full_checkout_aside_collapsed=test&wrapper_default_start_page=ideas&upgrade_menu_placement=v1",
+        "history-data": "[{\"pathname\":\"/article/4732443-thermal-energy-international-inc-2025-q1-results-earnings-call-presentation\",\"data\":{\"hasComeFromSapiAuthorPage\":false,\"parsedSearch\":{},\"isMpArticle\":false}}]",
+        "history-index": "0",
+        "PXxgCxM9By_px_c_p_PXxgCxM9By": "0"
+    },
+    "fingerprint": {
+        "self.navigator.userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "self.screen.width": 1920,
+        "self.screen.height": 1920,
+        "self.screen.availWidth": 1920,
+        "self.screen.availHeight": 1040,
+        "self.screen.availLeft": "",
+        "self.screen.availTop": "",
+        "self.navigator.vendorSub": "",
+        "self.navigator.productSub": "20030107",
+        "self.navigator.vendor": "Google Inc.",
+        "self.navigator.maxTouchPoints": "",
+        "self.navigator.hardwareConcurrency": 12,
+        "self.navigator.cookieEnabled": true,
+        "self.navigator.appCodeName": "Mozilla",
+        "self.navigator.appName": "Netscape",
+        "self.navigator.appVersion": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+        "self.navigator.platform": "Win32",
+        "self.navigator.product": "Gecko",
+        "self.navigator.language": "en-US",
+        "self.navigator.onLine": true,
+        "self.navigator.doNotTrack": "",
+        "self.navigator.deviceMemory": 8
+    },
+    "url": "https://seekingalpha.com/article/4732443-thermal-energy-international-inc-2025-q1-results-earnings-call-presentation",
+    "domain": "seekingalpha.com",
+    "screenshots": [],
+    "domainsOfInterest": [],
+    "cookiesRaw": [
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139941,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "machine_cookie",
+            "path": "/",
+            "sameSite": "None",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "0706632278439"
+        },
+        {
+            "domain": ".seekingalpha.com",
+            "expirationDate": 1762115943,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "OptanonConsent",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "isGpcEnabled=0&datestamp=Sun+Nov+03+2024+02%3A39%3A03+GMT%2B0600+(Kyrgyzstan+Time)&version=202401.1.0&browserGpcFlag=0&isIABGlobal=false&landingPath=https%3A%2F%2Fseekingalpha.com%2Farticle%2F4732443-thermal-energy-international-inc-2025-q1-results-earnings-call-presentation&groups=C0001%3A1%2CC0002%3A0%2CC0003%3A0%2CC0007%3A0&hosts=H40%3A1%2CH17%3A1%2CH13%3A0%2CH36%3A0%2CH55%3A0%2CH69%3A0%2CH45%3A0%2CH14%3A0%2CH15%3A0%2CH19%3A0%2CH47%3A0&genVendors=V12%3A0%2CV5%3A0%2CV7%3A0%2CV8%3A0%2CV13%3A1%2CV15%3A0%2CV3%3A1%2CV2%3A1%2CV6%3A0%2CV14%3A0%2CV1%3A1%2CV4%3A1%2CV9%3A0%2C"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "session_id",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": true,
+            "storeId": "0",
+            "value": "fa937fb5-79d2-42b4-8846-a51277193607"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "LAST_VISITED_PAGE",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": true,
+            "storeId": "0",
+            "value": "%7B%22pathname%22%3A%22https%3A%2F%2Fseekingalpha.com%2Farticle%2F4732443-thermal-energy-international-inc-2025-q1-results-earnings-call-presentation%22%2C%22pageKey%22%3A%229df79be1-9079-4e06-8cd7-de955f4c0c7b%22%7D"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "_sasource",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": true,
+            "storeId": "0",
+            "value": ""
+        },
+        {
+            "domain": ".seekingalpha.com",
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "pxcts",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": true,
+            "storeId": "0",
+            "value": "803ef38e-995a-11ef-9d87-16aae83c0327"
+        },
+        {
+            "domain": ".seekingalpha.com",
+            "expirationDate": 1762115946,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "_pxvid",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "803ee239-995a-11ef-9d86-ca489ed9a8bf"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1730581748,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "userLocalData_mone_session_lastSession",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "%7B%22machineCookie%22%3A%220706632278439%22%2C%22machineCookieSessionId%22%3A%220706632278439%261730579943776%22%2C%22sessionStart%22%3A1730579943776%2C%22sessionEnd%22%3A1730581748234%2C%22firstSessionPageKey%22%3A%229df79be1-9079-4e06-8cd7-de955f4c0c7b%22%2C%22isSessionStart%22%3Afalse%2C%22lastEvent%22%3A%7B%22event_type%22%3A%22mousemove%22%2C%22timestamp%22%3A1730579948234%7D%7D"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "user_id",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "60796931"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "user_nick",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": ""
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "user_devices",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": ""
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "user_cookie_key",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "11knh41"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "u_voc",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": ""
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "has_paid_subscription",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "true"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "ever_pro",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "1"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "sapu",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "12"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1765139958,
+            "hostOnly": true,
+            "httpOnly": true,
+            "name": "user_remember_token",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "737e96ba91b1a5d47730026dc50e6a87f344523c"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1762119558,
+            "hostOnly": true,
+            "httpOnly": false,
+            "name": "gk_user_access",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "1*premium.archived*1730579956"
+        },
+        {
+            "domain": "seekingalpha.com",
+            "expirationDate": 1762119558,
+            "hostOnly": true,
+            "httpOnly": true,
+            "name": "gk_user_access_sign",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": true,
+            "session": false,
+            "storeId": "0",
+            "value": "20812abcd2307d57d662df9f47deaf60291ae218"
+        },
+        {
+            "domain": ".seekingalpha.com",
+            "expirationDate": 1730580957,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "_px3",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "e433e5aad4623d65d9964185590836cf85d2b6678268d402385550d956207983:OFB2hzA70zT5TD89dt6GAg2ayseyvH8jTA+v5YImmirdwglYHeM9kYukcCLdmtkpt3AC8pdC2nzD7JxeN5H+rg==:1000:uBXtohRGkQrZmTmQfI1EpT/Q/izdZTKkB3F1Yd9+hNvh6B30gDHx5lRzgZnaS351fjb0dtHDkuMcQIXj6FYhRbZg38whQk6CNFdtIBNYQkd9q30FNnSVw+71xHOlwY/08SCwtBgNuBJj/iPwDdU3FHEv76dKvelBtUvKl8pPdoRKWd/gFnkXAn7BX3PZeCV2oSz4HH8/RiWqm17YKXCtrTMctiEofQjyaVY8KOWCMU8="
+        },
+        {
+            "domain": ".seekingalpha.com",
+            "expirationDate": 1730580957,
+            "hostOnly": false,
+            "httpOnly": false,
+            "name": "_pxde",
+            "path": "/",
+            "sameSite": "Lax",
+            "secure": false,
+            "session": false,
+            "storeId": "0",
+            "value": "485fb0f0557df1a863c43ae3c5d29983a27acc591e396a1dd4b17a8e0adea5e8:eyJ0aW1lc3RhbXAiOjE3MzA1Nzk5NTY2NDksImZfa2IiOjB9"
+        }
+    ],
+    "origins": [
+        {
+            "origin": "https://seekingalpha.com/article/4732443-thermal-energy-international-inc-2025-q1-results-earnings-call-presentation",
+            "localStorage": [
+                {
+                    "name": "PXxgCxM9By_Dzd5dUlTekI=",
+                    "value": "1"
+                },
+                {
+                    "name": "piano_tag_for_url_params",
+                    "value": "[]"
+                },
+                {
+                    "name": "sailthru_daily_tracking",
+                    "value": "{\"article\":\"2024-11-02T18:00:00.000Z\"}"
+                },
+                {
+                    "name": "comments_sort",
+                    "value": "newest"
+                },
+                {
+                    "name": "shouldShowGiftPremium",
+                    "value": "{\"value\":true,\"expiry\":1735763942696}"
+                },
+                {
+                    "name": "userLocalData_headlines",
+                    "value": "{\"saved_headlines_map\":[]}"
+                },
+                {
+                    "name": "PXxgCxM9By_px_hvd",
+                    "value": "20314b640e84bad12cc980267da72138"
+                },
+                {
+                    "name": "userLocalData_inbox",
+                    "value": "{\"inbox_tab\":\"comments\",\"inbox_counts\":{\"notSeen\":0,\"headlines\":0,\"comments\":0,\"directMessages\":0}}"
+                },
+                {
+                    "name": "isAsideExpertsCollapsed",
+                    "value": "true"
+                },
+                {
+                    "name": "userLocalData_investingGroups",
+                    "value": "{\"unreadCounters\":{\"investingGroupsUnread\":{},\"lastUpdated\":1730579941707}}"
+                },
+                {
+                    "name": "PXxgCxM9By_px-ff",
+                    "value": "eyJjYyI6eyJ0dGwiOjE3MzA1ODAwMDYsInZhbCI6IlUyRnRaVk5wZEdVOVRHRjRPdz09In0sImNmcCI6eyJ0dGwiOjE3MzA1ODAwMDYsInZhbCI6IjEifX0="
+                },
+                {
+                    "name": "isAsidePortfoliosCollapsed",
+                    "value": "true"
+                },
+                {
+                    "name": "isAsideOpened",
+                    "value": "true"
+                },
+                {
+                    "name": "mone_keys",
+                    "value": "{\"ver\":1,\"keys\":{\"3115\":{\"url\":\"https://seekingalpha.com/article/4732443-thermal-energy-international-inc-2025-q1-results-earnings-call-presentation?ssr_poc=yes&test_mcm_was_ever_pro=control&ig_full_checkout_aside_collapsed=test&wrapper_default_start_page=ideas&upgrade_menu_placement=v1\",\"at\":1730579943.776,\"key\":\"9df79be1-9079-4e06-8cd7-de955f4c0c7b\"}}}"
+                },
+                {
+                    "name": "__sa_data__",
+                    "value": "{\"lastSessionId\":\"fa937fb5-79d2-42b4-8846-a51277193607.0\",\"sessionID\":\"fa937fb5-79d2-42b4-8846-a51277193607.0\",\"sessionExpiration\":1730581743775}"
+                },
+                {
+                    "name": "userLocalData_audioPlayer",
+                    "value": "{\"playingFrom\":\"\"}"
+                }
+            ]
+        }
+    ]
+}
